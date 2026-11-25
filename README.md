@@ -5,7 +5,18 @@
 
 This folder is a practical playbook for getting involved in **research, open source, side projects, and technical writing** as an undergraduate.
 
-## How to use this guide
+## ⭐ Important projects
+
+**Start in [`projects/`](projects/README.md).** It holds the project lists:
+
+| | |
+|---|---|
+| 🧩 [**Open-source projects to contribute to**](projects/open-source-to-contribute.md) | 55+ important repos (AI/ML, data science, health, education, dev tools, systems) with links, difficulty and how to start |
+| 🛠 [**15 projects to build from scratch**](projects/build-from-scratch.md) | Detailed specs, beginner → advanced, with milestones, stack and blog ideas |
+| 🔬 [**Research projects**](projects/research-projects.md) | Papers to reproduce, ideas for extending them, original undergrad-sized research, and where to publish |
+| 📝 [**Project plan template**](projects/project-template.md) | Plan any project in one page |
+
+## The guide
 
 | File | What's inside |
 |------|---------------|
